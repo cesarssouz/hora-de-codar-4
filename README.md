@@ -13,5 +13,4 @@ Este projeto permite ao usuário verificar se o nome de um planeta digitado est�
 Um sistema que permite ao usuário escolher frutas de uma lista e removê-las conforme são compradas. O usuário pode continuar escolhendo até que todas as frutas sejam removidas, momento em que uma mensagem é exibida informando que a lista de compras foi finalizada.
 ## Tecnologias
 HTML
-
 JavaScript
