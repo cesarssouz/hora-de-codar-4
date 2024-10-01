@@ -1,5 +1,3 @@
-# Projetos em JavaScript
-
 ## Descrição
 Esta coleção de pequenos projetos em JavaScript demonstra funcionalidades básicas de manipulação de dados, interação com o usuário e controle de fluxo.
 
